@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundScrapper", "FundScrapper\FundScrapper.csproj", "{70236210-86D1-4273-B406-9B8B0DB99633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumStuff", "ClassLibrary1\SeleniumStuff.csproj", "{768902CB-7B0E-415E-B346-82BECCFD21CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70236210-86D1-4273-B406-9B8B0DB99633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70236210-86D1-4273-B406-9B8B0DB99633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70236210-86D1-4273-B406-9B8B0DB99633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70236210-86D1-4273-B406-9B8B0DB99633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768902CB-7B0E-415E-B346-82BECCFD21CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768902CB-7B0E-415E-B346-82BECCFD21CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768902CB-7B0E-415E-B346-82BECCFD21CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768902CB-7B0E-415E-B346-82BECCFD21CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E77DC279-EA03-478C-87D5-4B7D049D461D}
+	EndGlobalSection
+EndGlobal

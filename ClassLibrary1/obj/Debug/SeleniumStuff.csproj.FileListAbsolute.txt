@@ -1,0 +1,10 @@
+C:\Users\Cristiano_O\source\repos\FundScrapper\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Cristiano_O\source\repos\FundScrapper\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Cristiano_O\source\repos\FundScrapper\ClassLibrary1\bin\Debug\WebDriver.dll
+C:\Users\Cristiano_O\source\repos\FundScrapper\ClassLibrary1\bin\Debug\WebDriver.xml
+C:\Users\Cristiano_O\source\repos\FundScrapper\ClassLibrary1\obj\Debug\SeleniumStuff.csprojAssemblyReference.cache
+C:\Users\Cristiano_O\source\repos\FundScrapper\ClassLibrary1\obj\Debug\SeleniumStuff.csproj.CoreCompileInputs.cache
+C:\Users\Cristiano_O\source\repos\FundScrapper\ClassLibrary1\obj\Debug\SeleniumStuff.csproj.CopyComplete
+C:\Users\Cristiano_O\source\repos\FundScrapper\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Cristiano_O\source\repos\FundScrapper\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Cristiano_O\source\repos\FundScrapper\ClassLibrary1\bin\Debug\SeleniumExtras.WaitHelpers.dll
